@@ -43,7 +43,7 @@ function App() {
 
       <section className="hero" id="home">
         <div className="hero-content">
-          <h1>Integr8 Functional Health</h1>
+          <h1>INTEGER8 Functional Health</h1>
           <p className="hero-subtitle">Comprehensive Massage Therapy & Wellness</p>
           <p className="hero-description">Experience personalized, mobile massage therapy that focuses on your whole body wellness</p>
           <a href="#contact" className="cta-button">Book Your Appointment</a>
@@ -85,8 +85,8 @@ function App() {
 
             <div className="pricing-grid">
               <div className="pricing-card">
-                <h3>Sports Massage</h3>
-                <p className="service-description">Targeted therapy for athletic performance and recovery</p>
+                <h3>Deep Tissue Massage</h3>
+                <p className="service-description">Focused pressure for chronic tension and pain relief</p>
                 <div className="price-options">
                   <div className="price-item">
                     <span className="duration">45 Min</span>
@@ -119,8 +119,8 @@ function App() {
               </div>
 
               <div className="pricing-card">
-                <h3>Deep Tissue Massage</h3>
-                <p className="service-description">Focused pressure for chronic tension and pain relief</p>
+                <h3>Sports Massage</h3>
+                <p className="service-description">Targeted therapy for athletic performance and recovery</p>
                 <div className="price-options">
                   <div className="price-item">
                     <span className="duration">45 Min</span>
