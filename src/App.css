@@ -38,7 +38,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  background-color: var(--beige-light);
+  background-color: #ffffff;
   background-image:
     linear-gradient(to bottom,
       rgba(245, 235, 224, 0.1),
