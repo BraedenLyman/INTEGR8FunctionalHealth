@@ -18,7 +18,7 @@ function App() {
         <div className="navbar-container">
           <div className="navbar-brand">
             <a href="/">
-              <img src="/assets/images/BriLogo.png" alt="Integr8 Functional Health Logo" className="logo" />
+              <img src="/assets/images/BriLogo.png" alt="INTEGR8 Functional Health Logo" className="logo" />
             </a>
           </div>
 
@@ -43,7 +43,7 @@ function App() {
 
       <section className="hero" id="home">
         <div className="hero-content">
-          <h1>INTEGER8 Functional Health</h1>
+          <h1>INTEGR8 Functional Health</h1>
           <p className="hero-subtitle">Comprehensive Massage Therapy & Wellness</p>
           <p className="hero-description">Experience personalized, mobile massage therapy that focuses on your whole body wellness</p>
           <a href="#contact" className="cta-button">Book Your Appointment</a>
@@ -202,7 +202,7 @@ function App() {
         <div className="footer-container">
           <div className="footer-content">
             <div className="footer-section">
-              <h4>Integr8 Functional Health</h4>
+              <h4>INTEGR8 Functional Health</h4>
               <p>Professional mobile massage therapy services</p>
             </div>
             <div className="footer-section">
@@ -212,7 +212,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2025 Integr8 Functional Health. All rights reserved.</p>
+            <p>&copy; 2025 INTEGR8 Functional Health. All rights reserved.</p>
           </div>
         </div>
       </footer>
