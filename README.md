@@ -89,5 +89,7 @@ All services are mobile-based and scheduled directly with the therapist.
 ## Author
 
 Braeden Lyman  - Developer  
-Website: https://braedenlyman.ca  | GitHub: https://github.com/BraedenLyman  | LinkedIn: https://www.linkedin.com/in/braedenlyman/
+<div align="center">
+   Website: https://braedenlyman.ca  | GitHub: https://github.com/BraedenLyman  | LinkedIn: https://www.linkedin.com/in/braedenlyman/
+</div>
 
