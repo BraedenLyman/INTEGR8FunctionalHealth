@@ -19,6 +19,7 @@ function App() {
           <div className="navbar-brand">
             <a href="/">
               <img src="/assets/images/BriLogo.png" alt="INTEGR8 Functional Health Logo" className="logo" />
+              <h4 className="header-name">Briea Shields, RMT</h4>
             </a>
           </div>
 
@@ -43,6 +44,7 @@ function App() {
 
       <section className="hero" id="home">
         <div className="hero-content">
+          <h2 className="hero-practitioner">Briea Shields, RMT</h2>
           <h1>INTEGR8 Functional Health</h1>
           <p className="hero-subtitle">Comprehensive Massage Therapy & Wellness</p>
           <p className="hero-description">Experience personalized, mobile massage therapy that focuses on your whole body wellness</p>
