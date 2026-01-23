@@ -214,7 +214,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2025 INTEGR8 Functional Health. All rights reserved.</p>
+            <p>&copy; 2026 INTEGR8 Functional Health. All rights reserved.</p>
           </div>
         </div>
       </footer>
