@@ -1,10 +1,9 @@
 <div align="center">
    
    # INTEGR8 Functional Health Website  
-
+   
 </div>
 
-</br>
 </br>
 
 <div align="center">
@@ -92,4 +91,5 @@ Braeden Lyman  - Developer
 <div align="center">
    Website: https://braedenlyman.ca  | GitHub: https://github.com/BraedenLyman  | LinkedIn: https://www.linkedin.com/in/braedenlyman/
 </div>
+
 
